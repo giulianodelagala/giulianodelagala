@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-ontologies-lightgrey">
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan1t0&langs_count=10&theme=tokyonight&layout=compact" alt="juan1t0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giulianodelagala&langs_count=10&layout=compact" alt="giulianodelagala" /></p>
